@@ -11,6 +11,6 @@ git push origin master- Never ever fucking do this. I do not know why we did it 
 
 subl . - Opens all files in the repo
 
-Touch - Creates a new file.
+Touch    -- Creates a new file.
 
 git checkout -b - Creates a new branch and changes you to it.
