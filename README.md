@@ -1,5 +1,5 @@
 # phase-0-gps-1
-git status- Tells you the status, look at that
+git+ status- Tells you the status, look at that
 untracked = unadded
 tracked = added
 
